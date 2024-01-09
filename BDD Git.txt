@@ -1,0 +1,3 @@
+BDD stands for Behaviour Driven Framework
+Every one can easily understand the flow
+Its other wise called as Cucumber framework
